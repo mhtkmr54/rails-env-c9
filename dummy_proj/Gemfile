@@ -130,7 +130,7 @@ group :development, :test do
 
   # For Pronto
 
-  gem 'pronto'
+  gem 'pronto', ">= 0.6.0"
   gem 'pronto-rubocop'
   gem 'pronto-flay'
   gem 'pronto-reek'
